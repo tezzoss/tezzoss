@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tezzoss
+- 👀 I’m interested in coding and learning new things.
+- 🌱 I’m currently learning discord.py
+- 💞️ I’m looking to collaborate on anything really
+- 📫 How to reach me. Discord: tezzo#0001
