@@ -1,4 +1,4 @@
  learning C#
- Discord: tezzo#0001
+ Discord: tezzo#9079
  
  fluent in python
