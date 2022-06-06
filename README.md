@@ -1,4 +1,4 @@
  learning C#
- Discord: tezzo#9079
+ Discord: Redacted
  
  fluent in python
