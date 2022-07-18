@@ -1,4 +1,4 @@
- learning C#
- Discord: tezzo#0001
- 
- fluent in python
+Fluent in Python and discord.py
+Learning C# for VRChat
+
+tezzo#0001
