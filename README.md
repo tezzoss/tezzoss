@@ -1,3 +1,3 @@
 Fluent in Python and discord.py
-learning C#
+learning C# and js
 tezzo#0001
